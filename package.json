@@ -1,0 +1,12 @@
+{
+  "name": "cours-bitcoin",
+  "version": "1.0.0",
+  "main": "btc.js",
+  "scripts": {
+    "dev": "clear && nodemon btc.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
